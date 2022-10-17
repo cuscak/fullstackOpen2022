@@ -1,0 +1,862 @@
+{
+  "countries": [
+    {
+      "name": {
+        "common": "Eswatini",
+        "official": "Kingdom of Eswatini",
+        "nativeName": {
+          "eng": {
+            "official": "Kingdom of Eswatini",
+            "common": "Eswatini"
+          },
+          "ssw": {
+            "official": "Umbuso weSwatini",
+            "common": "eSwatini"
+          }
+        }
+      },
+      "tld": [
+        ".sz"
+      ],
+      "cca2": "SZ",
+      "ccn3": "748",
+      "cca3": "SWZ",
+      "cioc": "SWZ",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "SZL": {
+          "name": "Swazi lilangeni",
+          "symbol": "L"
+        },
+        "ZAR": {
+          "name": "South African rand",
+          "symbol": "R"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "68"
+        ]
+      },
+      "capital": [
+        "Mbabane"
+      ],
+      "altSpellings": [
+        "SZ",
+        "Swaziland",
+        "weSwatini",
+        "Swatini",
+        "Ngwane",
+        "Kingdom of Eswatini",
+        "Umbuso weSwatini"
+      ],
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "languages": {
+        "eng": "English",
+        "ssw": "Swazi"
+      },
+      "translations": {
+        "ara": {
+          "official": "مملكة إسواتيني",
+          "common": "إسواتيني"
+        },
+        "bre": {
+          "official": "Rouantelezh Eswatini",
+          "common": "Eswatini"
+        },
+        "ces": {
+          "official": "Svazijské království",
+          "common": "Svazijsko"
+        },
+        "cym": {
+          "official": "Kingdom of Eswatini",
+          "common": "Eswatini"
+        },
+        "deu": {
+          "official": "Königreich Eswatini",
+          "common": "Swasiland"
+        },
+        "est": {
+          "official": "eSwatini Kuningriik",
+          "common": "Svaasimaa"
+        },
+        "fin": {
+          "official": "Swazimaan kuningaskunta",
+          "common": "Swazimaa"
+        },
+        "fra": {
+          "official": "Royaume d’Eswatini",
+          "common": "Swaziland"
+        },
+        "hrv": {
+          "official": "Kraljevina eSwatini",
+          "common": "Svazi"
+        },
+        "hun": {
+          "official": "Szváziföldi Királyság",
+          "common": "Szváziföld"
+        },
+        "ita": {
+          "official": "Regno di eSwatini",
+          "common": "Swaziland"
+        },
+        "jpn": {
+          "official": "スワジランド王国",
+          "common": "スワジランド"
+        },
+        "kor": {
+          "official": "에스와티니 왕국",
+          "common": "에스와티니"
+        },
+        "nld": {
+          "official": "Koninkrijk eSwatini",
+          "common": "Swaziland"
+        },
+        "per": {
+          "official": "پادشاهی سوازیلند",
+          "common": "اسواتینی"
+        },
+        "pol": {
+          "official": "Królestwo Suazi",
+          "common": "Suazi"
+        },
+        "por": {
+          "official": "Reino de eSwatini",
+          "common": "Suazilândia"
+        },
+        "rus": {
+          "official": "Королевство Свазиленд",
+          "common": "Свазиленд"
+        },
+        "slk": {
+          "official": "Svazijské kráľovstvo",
+          "common": "Svazijsko"
+        },
+        "spa": {
+          "official": "Reino de eSwatini",
+          "common": "Suazilandia"
+        },
+        "swe": {
+          "official": "Konungariket Eswatini",
+          "common": "Swaziland"
+        },
+        "tur": {
+          "official": "Esvatini Krallığı",
+          "common": "Esvatini"
+        },
+        "urd": {
+          "official": "مملکتِ سوازی لینڈ",
+          "common": "سوازی لینڈ"
+        },
+        "zho": {
+          "official": "斯威士兰王国",
+          "common": "斯威士兰"
+        }
+      },
+      "latlng": [
+        -26.5,
+        31.5
+      ],
+      "landlocked": true,
+      "borders": [
+        "MOZ",
+        "ZAF"
+      ],
+      "area": 17364.0,
+      "demonyms": {
+        "eng": {
+          "f": "Swazi",
+          "m": "Swazi"
+        },
+        "fra": {
+          "f": "Swazie",
+          "m": "Swazie"
+        }
+      },
+      "flag": "\uD83C\uDDF8\uD83C\uDDFF",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+      },
+      "population": 1160164,
+      "gini": {
+        "2016": 54.6
+      },
+      "fifa": "SWZ",
+      "car": {
+        "signs": [
+          "SD"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/sz.png",
+        "svg": "https://flagcdn.com/sz.svg"
+      },
+      "coatOfArms": {},
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -26.32,
+          31.13
+        ]
+      },
+      "postalCode": {
+        "format": "@###",
+        "regex": "^([A-Z]\\d{3})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Switzerland",
+        "official": "Swiss Confederation",
+        "nativeName": {
+          "fra": {
+            "official": "Confédération suisse",
+            "common": "Suisse"
+          },
+          "gsw": {
+            "official": "Schweizerische Eidgenossenschaft",
+            "common": "Schweiz"
+          },
+          "ita": {
+            "official": "Confederazione Svizzera",
+            "common": "Svizzera"
+          },
+          "roh": {
+            "official": "Confederaziun svizra",
+            "common": "Svizra"
+          }
+        }
+      },
+      "tld": [
+        ".ch"
+      ],
+      "cca2": "CH",
+      "ccn3": "756",
+      "cca3": "CHE",
+      "cioc": "SUI",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "CHF": {
+          "name": "Swiss franc",
+          "symbol": "Fr."
+        }
+      },
+      "idd": {
+        "root": "+4",
+        "suffixes": [
+          "1"
+        ]
+      },
+      "capital": [
+        "Bern"
+      ],
+      "altSpellings": [
+        "CH",
+        "Swiss Confederation",
+        "Schweiz",
+        "Suisse",
+        "Svizzera",
+        "Svizra"
+      ],
+      "region": "Europe",
+      "subregion": "Western Europe",
+      "languages": {
+        "fra": "French",
+        "gsw": "Swiss German",
+        "ita": "Italian",
+        "roh": "Romansh"
+      },
+      "translations": {
+        "ara": {
+          "official": "الاتحاد السويسري",
+          "common": "سويسرا"
+        },
+        "bre": {
+          "official": "Kengevredad Suis",
+          "common": "Suis"
+        },
+        "ces": {
+          "official": "Švýcarská konfederace",
+          "common": "Švýcarsko"
+        },
+        "cym": {
+          "official": "Swiss Confederation",
+          "common": "Switzerland"
+        },
+        "deu": {
+          "official": "Schweizerische Eidgenossenschaft",
+          "common": "Schweiz"
+        },
+        "est": {
+          "official": "Šveitsi Konföderatsioon",
+          "common": "Šveits"
+        },
+        "fin": {
+          "official": "Sveitsin valaliitto",
+          "common": "Sveitsi"
+        },
+        "fra": {
+          "official": "Confédération suisse",
+          "common": "Suisse"
+        },
+        "hrv": {
+          "official": "švicarska Konfederacija",
+          "common": "Švicarska"
+        },
+        "hun": {
+          "official": "Svájc",
+          "common": "Svájc"
+        },
+        "ita": {
+          "official": "Confederazione svizzera",
+          "common": "Svizzera"
+        },
+        "jpn": {
+          "official": "スイス連邦",
+          "common": "スイス"
+        },
+        "kor": {
+          "official": "스위스 연방",
+          "common": "스위스"
+        },
+        "nld": {
+          "official": "Zwitserse Confederatie",
+          "common": "Zwitserland"
+        },
+        "per": {
+          "official": "کنفدراسیون سوئیس",
+          "common": "سوئیس"
+        },
+        "pol": {
+          "official": "Konfederacja Szwajcarska",
+          "common": "Szwajcaria"
+        },
+        "por": {
+          "official": "Confederação Suíça",
+          "common": "Suíça"
+        },
+        "rus": {
+          "official": "Швейцарская Конфедерация",
+          "common": "Швейцария"
+        },
+        "slk": {
+          "official": "Švajčiarska konfederácia",
+          "common": "Švajčiarsko"
+        },
+        "spa": {
+          "official": "Confederación Suiza",
+          "common": "Suiza"
+        },
+        "swe": {
+          "official": "Schweiziska edsförbundet",
+          "common": "Schweiz"
+        },
+        "tur": {
+          "official": "İsviçre Konfederasyonu",
+          "common": "İsviçre"
+        },
+        "urd": {
+          "official": "سوئیس  متحدہ",
+          "common": "سویٹذرلینڈ"
+        },
+        "zho": {
+          "official": "瑞士联邦",
+          "common": "瑞士"
+        }
+      },
+      "latlng": [
+        47.0,
+        8.0
+      ],
+      "landlocked": true,
+      "borders": [
+        "AUT",
+        "FRA",
+        "ITA",
+        "LIE",
+        "DEU"
+      ],
+      "area": 41284.0,
+      "demonyms": {
+        "eng": {
+          "f": "Swiss",
+          "m": "Swiss"
+        },
+        "fra": {
+          "f": "Suisse",
+          "m": "Suisse"
+        }
+      },
+      "flag": "\uD83C\uDDE8\uD83C\uDDED",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
+      },
+      "population": 8654622,
+      "gini": {
+        "2018": 33.1
+      },
+      "fifa": "SUI",
+      "car": {
+        "signs": [
+          "CH"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/ch.png",
+        "svg": "https://flagcdn.com/ch.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/ch.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/ch.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          46.92,
+          7.47
+        ]
+      },
+      "postalCode": {
+        "format": "####",
+        "regex": "^(\\d{4})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Sweden",
+        "official": "Kingdom of Sweden",
+        "nativeName": {
+          "swe": {
+            "official": "Konungariket Sverige",
+            "common": "Sverige"
+          }
+        }
+      },
+      "tld": [
+        ".se"
+      ],
+      "cca2": "SE",
+      "ccn3": "752",
+      "cca3": "SWE",
+      "cioc": "SWE",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "SEK": {
+          "name": "Swedish krona",
+          "symbol": "kr"
+        }
+      },
+      "idd": {
+        "root": "+4",
+        "suffixes": [
+          "6"
+        ]
+      },
+      "capital": [
+        "Stockholm"
+      ],
+      "altSpellings": [
+        "SE",
+        "Kingdom of Sweden",
+        "Konungariket Sverige"
+      ],
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "languages": {
+        "swe": "Swedish"
+      },
+      "translations": {
+        "ara": {
+          "official": "مملكة السويد",
+          "common": "السويد"
+        },
+        "bre": {
+          "official": "Rouantelezh Sveden",
+          "common": "Sveden"
+        },
+        "ces": {
+          "official": "Švédské království",
+          "common": "Švédsko"
+        },
+        "cym": {
+          "official": "Kingdom of Sweden",
+          "common": "Sweden"
+        },
+        "deu": {
+          "official": "Königreich Schweden",
+          "common": "Schweden"
+        },
+        "est": {
+          "official": "Rootsi Kuningriik",
+          "common": "Rootsi"
+        },
+        "fin": {
+          "official": "Ruotsin kuningaskunta",
+          "common": "Ruotsi"
+        },
+        "fra": {
+          "official": "Royaume de Suède",
+          "common": "Suède"
+        },
+        "hrv": {
+          "official": "Kraljevina Švedska",
+          "common": "Švedska"
+        },
+        "hun": {
+          "official": "Svéd Királyság",
+          "common": "Svédország"
+        },
+        "ita": {
+          "official": "Regno di Svezia",
+          "common": "Svezia"
+        },
+        "jpn": {
+          "official": "スウェーデン王国",
+          "common": "スウェーデン"
+        },
+        "kor": {
+          "official": "스웨덴 왕국",
+          "common": "스웨덴"
+        },
+        "nld": {
+          "official": "Koninkrijk Zweden",
+          "common": "Zweden"
+        },
+        "per": {
+          "official": "پادشاهی سوئد",
+          "common": "سوئد"
+        },
+        "pol": {
+          "official": "Królestwo Szwecji",
+          "common": "Szwecja"
+        },
+        "por": {
+          "official": "Reino da Suécia",
+          "common": "Suécia"
+        },
+        "rus": {
+          "official": "Королевство Швеция",
+          "common": "Швеция"
+        },
+        "slk": {
+          "official": "Švédske kráľovstvo",
+          "common": "Švédsko"
+        },
+        "spa": {
+          "official": "Reino de Suecia",
+          "common": "Suecia"
+        },
+        "swe": {
+          "official": "Konungariket Sverige",
+          "common": "Sverige"
+        },
+        "tur": {
+          "official": "İsveç Krallığı",
+          "common": "İsveç"
+        },
+        "urd": {
+          "official": "مملکتِ سویڈن",
+          "common": "سویڈن"
+        },
+        "zho": {
+          "official": "瑞典王国",
+          "common": "瑞典"
+        }
+      },
+      "latlng": [
+        62.0,
+        15.0
+      ],
+      "landlocked": false,
+      "borders": [
+        "FIN",
+        "NOR"
+      ],
+      "area": 450295.0,
+      "demonyms": {
+        "eng": {
+          "f": "Swedish",
+          "m": "Swedish"
+        },
+        "fra": {
+          "f": "Suédoise",
+          "m": "Suédois"
+        }
+      },
+      "flag": "\uD83C\uDDF8\uD83C\uDDEA",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+      },
+      "population": 10353442,
+      "gini": {
+        "2018": 30.0
+      },
+      "fifa": "SWE",
+      "car": {
+        "signs": [
+          "S"
+        ],
+        "side": "right"
+      },
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/se.png",
+        "svg": "https://flagcdn.com/se.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/se.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/se.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          59.33,
+          18.05
+        ]
+      },
+      "postalCode": {
+        "format": "SE-### ##",
+        "regex": "^(?:SE)*(\\d{5})$"
+      }
+    },
+    {
+      "name": {
+        "common": "Botswana",
+        "official": "Republic of Botswana",
+        "nativeName": {
+          "eng": {
+            "official": "Republic of Botswana",
+            "common": "Botswana"
+          },
+          "tsn": {
+            "official": "Lefatshe la Botswana",
+            "common": "Botswana"
+          }
+        }
+      },
+      "tld": [
+        ".bw"
+      ],
+      "cca2": "BW",
+      "ccn3": "072",
+      "cca3": "BWA",
+      "cioc": "BOT",
+      "independent": true,
+      "status": "officially-assigned",
+      "unMember": true,
+      "currencies": {
+        "BWP": {
+          "name": "Botswana pula",
+          "symbol": "P"
+        }
+      },
+      "idd": {
+        "root": "+2",
+        "suffixes": [
+          "67"
+        ]
+      },
+      "capital": [
+        "Gaborone"
+      ],
+      "altSpellings": [
+        "BW",
+        "Republic of Botswana",
+        "Lefatshe la Botswana"
+      ],
+      "region": "Africa",
+      "subregion": "Southern Africa",
+      "languages": {
+        "eng": "English",
+        "tsn": "Tswana"
+      },
+      "translations": {
+        "ara": {
+          "official": "جمهورية بوتسوانا",
+          "common": "بوتسوانا"
+        },
+        "bre": {
+          "official": "Republik Botswana",
+          "common": "Botswana"
+        },
+        "ces": {
+          "official": "Botswanská republika",
+          "common": "Botswana"
+        },
+        "cym": {
+          "official": "Republic of Botswana",
+          "common": "Botswana"
+        },
+        "deu": {
+          "official": "Republik Botsuana",
+          "common": "Botswana"
+        },
+        "est": {
+          "official": "Botswana Vabariik",
+          "common": "Botswana"
+        },
+        "fin": {
+          "official": "Botswanan tasavalta",
+          "common": "Botswana"
+        },
+        "fra": {
+          "official": "République du Botswana",
+          "common": "Botswana"
+        },
+        "hrv": {
+          "official": "Republika Bocvana",
+          "common": "Bocvana"
+        },
+        "hun": {
+          "official": "Botswanai Köztársaság",
+          "common": "Botswana"
+        },
+        "ita": {
+          "official": "Repubblica del Botswana",
+          "common": "Botswana"
+        },
+        "jpn": {
+          "official": "ボツワナ共和国",
+          "common": "ボツワナ"
+        },
+        "kor": {
+          "official": "보츠와나 공화국",
+          "common": "보츠와나"
+        },
+        "nld": {
+          "official": "Republiek Botswana",
+          "common": "Botswana"
+        },
+        "per": {
+          "official": "جمهوری بوتسوانا",
+          "common": "بوتسوانا"
+        },
+        "pol": {
+          "official": "Republika Botswany",
+          "common": "Botswana"
+        },
+        "por": {
+          "official": "República do Botswana",
+          "common": "Botswana"
+        },
+        "rus": {
+          "official": "Республика Ботсвана",
+          "common": "Ботсвана"
+        },
+        "slk": {
+          "official": "Botswanská republika",
+          "common": "Botswana"
+        },
+        "spa": {
+          "official": "República de Botswana",
+          "common": "Botswana"
+        },
+        "swe": {
+          "official": "Republiken Botswana",
+          "common": "Botswana"
+        },
+        "tur": {
+          "official": "Botsvana Cumhuriyeti",
+          "common": "Botsvana"
+        },
+        "urd": {
+          "official": "جمہوریہ بوٹسوانا",
+          "common": "بوٹسوانا"
+        },
+        "zho": {
+          "official": "博茨瓦纳共和国",
+          "common": "博茨瓦纳"
+        }
+      },
+      "latlng": [
+        -22.0,
+        24.0
+      ],
+      "landlocked": true,
+      "borders": [
+        "NAM",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "area": 582000.0,
+      "demonyms": {
+        "eng": {
+          "f": "Motswana",
+          "m": "Motswana"
+        },
+        "fra": {
+          "f": "Botswanaise",
+          "m": "Botswanais"
+        }
+      },
+      "flag": "\uD83C\uDDE7\uD83C\uDDFC",
+      "maps": {
+        "googleMaps": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+        "openStreetMaps": "https://www.openstreetmap.org/relation/1889339"
+      },
+      "population": 2351625,
+      "gini": {
+        "2015": 53.3
+      },
+      "fifa": "BOT",
+      "car": {
+        "signs": [
+          "BW"
+        ],
+        "side": "left"
+      },
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "continents": [
+        "Africa"
+      ],
+      "flags": {
+        "png": "https://flagcdn.com/w320/bw.png",
+        "svg": "https://flagcdn.com/bw.svg"
+      },
+      "coatOfArms": {
+        "png": "https://mainfacts.com/media/images/coats_of_arms/bw.png",
+        "svg": "https://mainfacts.com/media/images/coats_of_arms/bw.svg"
+      },
+      "startOfWeek": "monday",
+      "capitalInfo": {
+        "latlng": [
+          -24.63,
+          25.9
+        ]
+      }
+    }
+  ]
+}
