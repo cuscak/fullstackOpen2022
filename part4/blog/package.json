@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "blog.js",
+  "scripts": {
+    "start": "NODE_ENV=production node --inspect-brk=0.0.0.0 index.js",
+    "dev": "NODE_ENV=development nodemon -L index.js",
+    "test": "NODE_ENV=test jest --verbose --runInBand --forceExit"
+  },
+  "author": "Andrej Cuscak",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "jest": "^29.2.2",
+    "nodemon": "^2.0.20",
+    "supertest": "^6.3.1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
